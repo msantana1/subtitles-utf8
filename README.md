@@ -15,4 +15,4 @@ Copy the [uft8.ps1](https://github.com/msantana1/subtitles-utf8/blob/main/utf8.p
 
 to run the script, if not, you need to open a Powershell terminal and refference the location of the file utf8.ps1
 
-In case you need to change your [Powershell policies](https://www.blai.blog/2019/05/habilitar-ejecucion-de-archivos-ps1-en.html)
+In case you need to change your [Powershell policies](https://learn.microsoft.com/en-us/answers/questions/506985/powershell-execution-setting-is-overridden-by-a-po)
