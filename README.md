@@ -10,7 +10,7 @@ Modify accordinly yor own directories
 
 **BE CAREFUL**, the script deletes the original ANSI .srt files from the Source Directory, comment the last line if you don't want to delete the original ANSI .srt files
 
-Copy the [uft8.ps1](https://github.com/msantana1/subtitles-utf8/blob/main/utf8.ps1) file to **C:\windows\system32** so every time you open a Powershell terminal you only need to run:
+Copy the [utf8.ps1](https://github.com/msantana1/subtitles-utf8/blob/main/utf8.ps1) file to **C:\windows\system32** so every time you open a Powershell terminal you only need to run:
 > utf8
 
 to run the script, if not, you need to open a Powershell terminal and refference the location of the file utf8.ps1
